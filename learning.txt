@@ -1,0 +1,1 @@
+I have learned how to create repositories, commit changes, and collaborate using GitHub. This hands-on activity helped me understand Git basics more clearly.
