@@ -1,1 +1,1 @@
-I have learned how to create repositories, commit changes, and collaborate using GitHub. This hands-on activity helped me understand Git basics more clearly.
+echo "One thing I’ve learned in this course is how to use Git and GitHub to manage version control for my code." > learning.txt
