@@ -1,1 +1,1 @@
-echo "One thing I’ve learned in this course is how to use Git and GitHub to manage version control for my code." > learning.txt
+One thing I’ve learned in this course is how GitHub helps organize and track changes in my code. I now understand how to commit, push, and work with repositories online.
